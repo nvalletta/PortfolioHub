@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material">
+        <item name="android:fontFamily">sans-serif-thin</item>
+        <item name="android:colorButtonNormal">@color/portalBlue</item>
+    </style>
+
+</resources>

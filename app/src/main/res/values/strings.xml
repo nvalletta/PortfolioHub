@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PortfolioHub</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="noras_portfolio">Nora\'s Portfolio!</string>
+    <string name="confetti">*confetti*</string>
+
+    <string name="spotify_streamer">Spotify Streamer</string>
+    <string name="scores">Scores</string>
+    <string name="library">Library</string>
+    <string name="build_it_bigger">Build It Bigger</string>
+    <string name="xyz_reader">XYZ Reader</string>
+    <string name="capstone_by_own_app">Capstone: My Own App</string>
+</resources>
